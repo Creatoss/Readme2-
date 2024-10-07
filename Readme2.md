@@ -8,4 +8,6 @@ git remote add origin #ssh
 git remote -v 
 
 #creating new branch  
-gir checkout -b "features name"
+git checkout -b "features name"
+
+git commit with feature2
